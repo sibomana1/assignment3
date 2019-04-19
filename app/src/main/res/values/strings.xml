@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SIBO</string>
+    <string name="title_activity_welcome">SIBOMANA EMMANUEL</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SIBOMANA EMMANUEL</string>
+    <string name="nav_header_subtitle">siboemmy0179@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">My Profile</string>
+    <string name="usernamehint">Enter Username</string>
+</resources>
